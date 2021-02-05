@@ -1,8 +1,8 @@
 import App, { Container } from 'next/app';
 import React from 'react';
-import theme from '@public/styles/themes';
-import GlobalStyles from '@public/styles/global-styles';
-import { ThemeProvider } from '@public/styles/themed-components';
+import theme from '@assets/styles/themes';
+import GlobalStyles from '@assets/styles/global-styles';
+import { ThemeProvider } from '@assets/styles/themed-components';
 
 class ReactApp extends App<any> {
   public render() {
