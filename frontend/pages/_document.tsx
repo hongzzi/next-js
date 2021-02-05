@@ -32,7 +32,7 @@ export default class MyDocument extends Document {
     return (
       <html lang="ko">
         <Head>
-          <title>Mini VIBE</title>
+          <title>Hello World</title>
         </Head>
         <body>
           <Main />

@@ -1,7 +1,7 @@
 {
-  "name": "project01-user-event-collector",
+  "name": "next-js",
   "version": "0.0.1",
-  "description": "boostcamp project",
+  "description": "보일러플레이트..",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boostcamp-2020/Project01-C-User-Event-Collector.git"
+    "url": "git+https://github.com/hongzzi/next-js.git"
   },
   "keywords": [
     "nodejs",
@@ -23,9 +23,9 @@
   "author": "millet",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/boostcamp-2020/Project01-C-User-Event-Collector/issues"
+    "url": "https://github.com/hongzzi/next-js.git"
   },
-  "homepage": "https://github.com/boostcamp-2020/Project01-C-User-Event-Collector#readme",
+  "homepage": "",
   "dependencies": {
     "@types/next": "^9.0.0",
     "@types/react": "^17.0.0",
